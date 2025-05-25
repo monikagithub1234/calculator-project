@@ -22,10 +22,7 @@ A *basic calculator web app* built using *HTML, CSS, and JavaScript. It supports
    
 2. Open index.html in any browser.
 3. Start performing calculations instantly!
-
-## 📸 Screenshots
-(Add your calculator’s screenshot here)  
-
+4. 
 ## 🏗️ Future Enhancements
 🔹 Dark mode  
 🔹 History log for previous calculations  
