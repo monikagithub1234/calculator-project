@@ -15,14 +15,7 @@ A *basic calculator web app* built using *HTML, CSS, and JavaScript. It supports
 - *CSS* – Styling for a clean and modern look  
 - *JavaScript* – Handles calculations dynamically  
 
-## 🎯 How to Use
-1. Clone this repository:
-   bash
-   git clone https://github.com/yourusername/calculator-project.git
-   
-2. Open index.html in any browser.
-3. Start performing calculations instantly!
-4. 
+
 ## 🏗️ Future Enhancements
 🔹 Dark mode  
 🔹 History log for previous calculations  
